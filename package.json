@@ -1,0 +1,19 @@
+{
+  "name": "@unwise-door/sipjs-udp-transport",
+  "version": "0.0.1",
+  "description": "Adds UDP transport to SIP.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/unwise-door/sipjs-udp-transport.git"
+  },
+  "keywords": [
+    "SIP.js",
+    "UDP"
+  ],
+  "author": "Nils Schnabel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/unwise-door/sipjs-udp-transport/issues"
+  },
+  "homepage": "https://github.com/unwise-door/sipjs-udp-transport#readme"
+}
