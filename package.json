@@ -1,7 +1,8 @@
 {
   "name": "@unwise-door/sipjs-udp-transport",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Adds UDP transport to SIP.js",
+  "main": "./UDPTransport.js",
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/unwise-door/sipjs-udp-transport.git"

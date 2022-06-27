@@ -6,7 +6,7 @@ This custom transport class for [sip.js](https://github.com/onsip/sip.js) provid
 ## Usage Example
 
 ```js
-    const UDPTransport = require("@unwise-door/sipjs-udp-transport/UDPTransport.js");
+    const UDPTransport = require("@unwise-door/sipjs-udp-transport");
 
     const userAgent = new sipjs.UserAgent({
       uri: sipjs.UserAgent.makeURI(`sip:...@...`),
